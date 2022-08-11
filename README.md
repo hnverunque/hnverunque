@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hnverunque
 - 👀 I’m interested in technology, information, literature, media and photography.
-- 🌱 I’m currently learning C and Java programming languages
+- 🌱 I’m currently learning business analytics, C and Java programming languages.
 - 📫 How to reach me: harleyverunque5@gmail.com
 
 <!---
